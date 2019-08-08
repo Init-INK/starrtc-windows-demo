@@ -7,6 +7,8 @@
 
 需要我们支持请加QQ群：807242783
 
+集成文档：https://docs.starrtc.com/en/docs/win-1.html
+
 如需私有部署，请到如下地址下载：
 
 https://github.com/starrtc/starrtc-server
